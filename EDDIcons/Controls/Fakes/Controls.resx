@@ -205,21 +205,6 @@
   <data name="Main_Tools_Settings" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Main\Tools\Settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Map2D_Save" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Map2D\Save.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Map2D_ShowAllStars" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Map2D\ShowAllStars.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Map2D_ZoomIn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Map2D\ZoomIn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Map2D_ZoomOut" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Map2D\ZoomOut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Map2D_ZoomToFit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Map2D\ZoomToFit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Map3D_Bookmarks_AddRegionBookmark" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Map3D\Bookmarks\AddRegionBookmark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -672,5 +657,17 @@
   </data>
   <data name="redzero" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\redzero.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Star" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\star.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZoomIn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\zoomin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZoomOut" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\zoomout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZoomToFit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\zoomtofit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

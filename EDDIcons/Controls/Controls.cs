@@ -58,11 +58,10 @@ namespace EDDiscovery.Icons
         public static Image Main_Tools_Settings { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Main.Tools.Settings"); } }
         #endregion
         #region EDDiscovery.Form2DMap
-        public static Image Map2D_Save { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Map2D.Save"); } }
-        public static Image Map2D_ShowAllStars { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Map2D.ShowAllStars"); } }
-        public static Image Map2D_ZoomIn { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Map2D.ZoomIn"); } }
-        public static Image Map2D_ZoomOut { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Map2D.ZoomOut"); } }
-        public static Image Map2D_ZoomToFit { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Map2D.ZoomToFit"); } }
+        public static Image Star { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Star"); } }
+        public static Image ZoomIn { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ZoomIn"); } }
+        public static Image ZoomOut { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ZoomOut"); } }
+        public static Image ZoomToFit { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ZoomToFit"); } }
         #endregion
         #region EDDiscovery.FormMap
         public static Image Map3D_Bookmarks_AddRegionBookmark { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Map3D.Bookmarks.AddRegionBookmark"); } }

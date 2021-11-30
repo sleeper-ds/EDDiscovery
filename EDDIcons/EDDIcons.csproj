@@ -283,10 +283,10 @@
     <EmbeddedResource Include="Journal\VehicleSwitch_Mothership.png" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Controls\Map2D\ShowAllStars.png" />
-    <EmbeddedResource Include="Controls\Map2D\ZoomIn.png" />
-    <EmbeddedResource Include="Controls\Map2D\ZoomOut.png" />
-    <EmbeddedResource Include="Controls\Map2D\ZoomToFit.png" />
+    <EmbeddedResource Include="Controls\Star.png" />
+    <EmbeddedResource Include="Controls\ZoomIn.png" />
+    <EmbeddedResource Include="Controls\ZoomOut.png" />
+    <EmbeddedResource Include="Controls\ZoomToFit.png" />
     <EmbeddedResource Include="Controls\Map3D\Navigation\CenterOnSystem.png" />
     <EmbeddedResource Include="Controls\Map3D\FilterDate.png" />
     <EmbeddedResource Include="Controls\Map3D\MapNames.png" />
@@ -374,7 +374,6 @@
     <EmbeddedResource Include="Controls\Main\Tools\Open3DMap.png" />
     <EmbeddedResource Include="Controls\Main\Tools\Popouts\ShowAllInTaskbar.png" />
     <EmbeddedResource Include="Controls\Main\Tools\Popouts\DisableTransparency.png" />
-    <EmbeddedResource Include="Controls\Map2D\Save.png" />
     <EmbeddedResource Include="Controls\RollUpPanel\PinDown.png" />
     <EmbeddedResource Include="Controls\RollUpPanel\PinUp.png" />
     <EmbeddedResource Include="Controls\Route\ExportToExcel.png" />
@@ -1081,9 +1080,6 @@
       <Name>BaseUtils</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controls\MatCommds\" />
-    <Folder Include="Controls\TabStrip\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
