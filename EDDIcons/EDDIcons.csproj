@@ -386,7 +386,6 @@
     <EmbeddedResource Include="Controls\Scan\SizeSmall.png" />
     <EmbeddedResource Include="Controls\Scan\SizeTiny.png" />
     <EmbeddedResource Include="Controls\EDSM.png" />
-    <EmbeddedResource Include="Controls\StarList\ExportToExcel.png" />
     <EmbeddedResource Include="Controls\StatsTime\Graph.png" />
     <EmbeddedResource Include="Controls\StatsTime\Planets.png" />
     <EmbeddedResource Include="Controls\StatsTime\Stars.png" />
@@ -532,10 +531,10 @@
     <EmbeddedResource Include="Panels\SplitterControl.png" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Controls\SysInfo\firstdiscover.png" />
+    <EmbeddedResource Include="Controls\firstdiscover.png" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Controls\SysInfo\notfirstdiscover.png" />
+    <EmbeddedResource Include="Controls\notfirstdiscover.png" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Controls\Surveyor\Font.png" />
@@ -668,7 +667,6 @@
     <EmbeddedResource Include="GalMap\Galaxy_L_Grid.jpg" />
     <EmbeddedResource Include="Controls\spansh.png" />
     <EmbeddedResource Include="Controls\EDDB.png" />
-    <EmbeddedResource Include="Controls\SysInfo\EDSM.png" />
     <EmbeddedResource Include="Controls\Inara.PNG" />
     <EmbeddedResource Include="Journal\CargoTransfer.png" />
     <EmbeddedResource Include="Journal\CarrierStats.png" />
@@ -1077,6 +1075,8 @@
       <Name>BaseUtils</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Controls\SysInfo\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

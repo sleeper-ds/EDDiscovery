@@ -172,9 +172,6 @@ namespace EDDiscovery.Icons
         #region EDDiscovery.UserControls.UserControlSPanel
         public static Image SPanel_ResizeColumn { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.SPanel.ResizeColumn"); } }
         #endregion
-        #region EDDiscovery.UserControls.UserControlStarList
-        public static Image StarList_ExportToExcel { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.StarList.ExportToExcel"); } }
-        #endregion
         #region EDDiscovery.UserControls.UserControlStatsTime
         public static Image StatsTime_Graph { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.StatsTime.Graph"); } }
         public static Image StatsTime_Planets { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.StatsTime.Planets"); } }
@@ -204,8 +201,8 @@ namespace EDDiscovery.Icons
         public static Image UCContainer_Tile { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.UCContainer.Tile"); } }
         #endregion
         #region EDDiscovery.UserControls.UserControlSysInfo
-        public static Image firstdiscover { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.SysInfo.firstdiscover"); } }
-        public static Image notfirstdiscover { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.SysInfo.notfirstdiscover"); } }
+        public static Image firstdiscover { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.firstdiscover"); } }
+        public static Image notfirstdiscover { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.notfirstdiscover"); } }
         public static Image spansh { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.spansh"); } }
         public static Image EDDB { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.EDDB"); } }
         public static Image EDSM { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.EDSM"); } }

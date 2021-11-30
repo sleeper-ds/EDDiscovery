@@ -433,9 +433,6 @@
   <data name="SPanel_ResizeColumn" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\SPanel\ResizeColumn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="StarList_ExportToExcel" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\StarList\ExportToExcel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="StatsTime_Graph" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\StatsTime\Graph.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -456,12 +453,6 @@
   </data>
   <data name="UCContainer_Tile" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\UCContainer\Tile.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="firstdiscover" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\SysInfo\firstdiscover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="notfirstdiscover" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\SysInfo\notfirstdiscover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Scan_Star" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Scan\Star.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -655,8 +646,14 @@
   <data name="EDSM" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\edsm.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="firstdiscover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\firstdiscover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Inara" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\inara.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="notfirstdiscover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\notfirstdiscover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Scan" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\scan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
