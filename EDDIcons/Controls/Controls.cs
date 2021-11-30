@@ -129,13 +129,7 @@ namespace EDDiscovery.Icons
         public static Image Save { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Save"); } }
         public static Image ShowOnMap { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ShowOnMap"); } }
         #endregion
-        #region EDDiscovery.UserControls.UserControlExploration
-        public static Image Exploration_ImportSphere { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Exploration.ImportSphere"); } }
-        #endregion
-        #region EDDiscovery.UserControls.UserControlJournalGrid
-        public static Image JournalGrid_ExportToExcel { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.JournalGrid.ExportToExcel"); } }
-        #endregion
-        #region EDDiscovery.UserControls.UserControlModules
+         #region EDDiscovery.UserControls.UserControlModules
         public static Image Modules_ShowOnCoriolis { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Modules.ShowOnCoriolis"); } }
         public static Image Modules_EDShipYard { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Modules.EDShipYard"); } }
         public static Image Modules_Configure { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Modules.Configure"); } }
@@ -195,9 +189,9 @@ namespace EDDiscovery.Icons
         public static Image StatsTime_Text { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.StatsTime.Text"); } }
         #endregion
         #region EDDiscovery.UserControls.UserControlTravelGrid
-        public static Image TravelGrid_ExportToExcel { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.TravelGrid.ExportToExcel"); } }
-        public static Image TravelGrid_FlagStart { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.TravelGrid.FlagStart"); } }
-        public static Image TravelGrid_FlagStop { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.TravelGrid.FlagStop"); } }
+        public static Image ExportToExcel { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ExportToExcel"); } }
+        public static Image FlagStart { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.FlagStart"); } }
+        public static Image FlagStop { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.FlagStop"); } }
         public static Image TravelGrid_CursorToTop { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.TravelGrid.CursorToTop"); } }
         public static Image TravelGrid_CursorStill { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.TravelGrid.CursorStill"); } }
         public static Image TravelGrid_Outlines { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.TravelGrid.Outlines"); } }
@@ -257,8 +251,8 @@ namespace EDDiscovery.Icons
         public static Image matshowzeros { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.MatCommds.matshowzeros"); } }
         #endregion
         #region Help
-        public static Image Help_Wiki { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Help.Wiki"); } }
-        public static Image Help_Video { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Help.Video"); } }
+        public static Image Wiki { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Wiki"); } }
+        public static Image Video { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Video"); } }
         #endregion
 
         #region Journal

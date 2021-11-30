@@ -731,7 +731,7 @@ namespace EDDiscovery.UserControls
             // 
             this.buttonExtExport.BackColor = System.Drawing.SystemColors.Control;
             this.buttonExtExport.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonExtExport.Image = global::EDDiscovery.Icons.Controls.TravelGrid_ExportToExcel;
+            this.buttonExtExport.Image = global::EDDiscovery.Icons.Controls.ExportToExcel;
             this.buttonExtExport.Location = new System.Drawing.Point(328, 1);
             this.buttonExtExport.Margin = new System.Windows.Forms.Padding(8, 1, 4, 1);
             this.buttonExtExport.Name = "buttonExtExport";
