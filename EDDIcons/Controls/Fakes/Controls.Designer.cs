@@ -103,26 +103,6 @@ namespace EDDiscovery.Icons {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap CaptainsLog_New {
-            get {
-                object obj = ResourceManager.GetObject("CaptainsLog_New", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap CaptainsLog_Tags {
-            get {
-                object obj = ResourceManager.GetObject("CaptainsLog_Tags", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         public static System.Drawing.Bitmap Delete {
             get {
                 object obj = ResourceManager.GetObject("Delete", resourceCulture);
@@ -1323,6 +1303,16 @@ namespace EDDiscovery.Icons {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap NewPage {
+            get {
+                object obj = ResourceManager.GetObject("NewPage", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap notfirstdiscover {
             get {
                 object obj = ResourceManager.GetObject("notfirstdiscover", resourceCulture);
@@ -1776,6 +1766,16 @@ namespace EDDiscovery.Icons {
         public static System.Drawing.Bitmap StatsTime_Text {
             get {
                 object obj = ResourceManager.GetObject("StatsTime_Text", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap Tags {
+            get {
+                object obj = ResourceManager.GetObject("Tags", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

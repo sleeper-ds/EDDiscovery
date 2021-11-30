@@ -120,7 +120,7 @@
             // 
             // buttonTags
             // 
-            this.buttonTags.Image = global::EDDiscovery.Icons.Controls.CaptainsLog_Tags;
+            this.buttonTags.Image = global::EDDiscovery.Icons.Controls.Tags;
             this.buttonTags.Location = new System.Drawing.Point(277, 1);
             this.buttonTags.Margin = new System.Windows.Forms.Padding(0, 1, 8, 1);
             this.buttonTags.Name = "buttonTags";
@@ -144,7 +144,7 @@
             // 
             // buttonNew
             // 
-            this.buttonNew.Image = global::EDDiscovery.Icons.Controls.CaptainsLog_New;
+            this.buttonNew.Image = global::EDDiscovery.Icons.Controls.NewPage;
             this.buttonNew.Location = new System.Drawing.Point(205, 1);
             this.buttonNew.Margin = new System.Windows.Forms.Padding(0, 1, 8, 1);
             this.buttonNew.Name = "buttonNew";

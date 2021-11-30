@@ -788,8 +788,8 @@
     <EmbeddedResource Include="Journal\ReservoirReplenished.png" />
     <EmbeddedResource Include="Journal\ProspectedAsteroid.png" />
     <EmbeddedResource Include="Controls\ImportExcel.png" />
-    <EmbeddedResource Include="Controls\CaptainsLog\New.png" />
-    <EmbeddedResource Include="Controls\CaptainsLog\Tags.png" />
+    <EmbeddedResource Include="Controls\NewPage.png" />
+    <EmbeddedResource Include="Controls\Tags.png" />
     <EmbeddedResource Include="Controls\Diary.png" />
     <EmbeddedResource Include="Controls\Entries.png" />
     <EmbeddedResource Include="Controls\MaterialTrader\petal1.png" />
@@ -1086,6 +1086,8 @@
       <Name>BaseUtils</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Controls\CaptainsLog\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

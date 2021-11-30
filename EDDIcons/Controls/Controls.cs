@@ -248,8 +248,8 @@ namespace EDDiscovery.Icons
         public static Image SearchScan { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Search.Scan"); } }
         #endregion
         #region EDDiscovery.UserControls.CaptainsLog
-        public static Image CaptainsLog_New { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.CaptainsLog.New"); } }
-        public static Image CaptainsLog_Tags { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.CaptainsLog.Tags"); } }
+        public static Image NewPage { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.NewPage"); } }
+        public static Image Tags { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Tags"); } }
         public static Image Entries { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Entries"); } }
         public static Image Diary { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Diary"); } }
         #endregion

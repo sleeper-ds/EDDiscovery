@@ -550,12 +550,6 @@
   <data name="notfirstdiscover" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\SysInfo\notfirstdiscover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="CaptainsLog_New" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\CaptainsLog\New.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="CaptainsLog_Tags" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\CaptainsLog\Tags.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="TravelGrid_CursorToTop" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\TravelGrid\CursorToTop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -687,5 +681,11 @@
   </data>
   <data name="Entries" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\entries.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NewPage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\newpage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tags" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\tags.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
