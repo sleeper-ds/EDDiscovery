@@ -120,15 +120,14 @@ namespace EDDiscovery.Icons
         public static Image Map3D_YellowDot { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Map3D.YellowDot"); } }
         #endregion
         #region EDDiscovery.UserControls.UserControlExpedition
-        public static Image Expedition_Delete { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Expedition.Delete"); } }
-        public static Image Expedition_Export { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Expedition.Export"); } }
-        public static Image Expedition_ImportFile { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Expedition.ImportFile"); } }
-        public static Image Expedition_ImportSphere { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Expedition.ImportSphere"); } }
-        public static Image Expedition_ImportRoute { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Expedition.ImportRoute"); } }
-        public static Image ImportNavRoute { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Expedition.ImportNavRoute"); } }
-        public static Image Expedition_New { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Expedition.New"); } }
-        public static Image Expedition_Save { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Expedition.Save"); } }
-        public static Image Expedition_ShowOnMap { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Expedition.ShowOnMap"); } }
+        public static Image Export { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Export"); } }
+        public static Image ImportFile { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ImportFile"); } }
+        public static Image ImportSphere { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ImportSphere"); } }
+        public static Image ImportRoute { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ImportRoute"); } }
+        public static Image ImportNavRoute { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ImportNavRoute"); } }
+        public static Image ClearRoute { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ClearRoute"); } }
+        public static Image Save { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Save"); } }
+        public static Image ShowOnMap { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ShowOnMap"); } }
         #endregion
         #region EDDiscovery.UserControls.UserControlExploration
         public static Image Exploration_ImportSphere { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Exploration.ImportSphere"); } }

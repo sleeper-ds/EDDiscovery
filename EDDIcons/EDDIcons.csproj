@@ -338,13 +338,12 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Controls\Expedition\ShowOnMap.png" />
-    <EmbeddedResource Include="Controls\Expedition\New.png" />
-    <EmbeddedResource Include="Controls\Expedition\ImportFile.png" />
-    <EmbeddedResource Include="Controls\Expedition\ImportRoute.png" />
-    <EmbeddedResource Include="Controls\Expedition\Delete.png" />
-    <EmbeddedResource Include="Controls\Expedition\Save.png" />
-    <EmbeddedResource Include="Controls\Expedition\Export.png" />
+    <EmbeddedResource Include="Controls\ShowOnMap.png" />
+    <EmbeddedResource Include="Controls\ClearRoute.png" />
+    <EmbeddedResource Include="Controls\ImportFile.png" />
+    <EmbeddedResource Include="Controls\ImportRoute.png" />
+    <EmbeddedResource Include="Controls\Save.png" />
+    <EmbeddedResource Include="Controls\Export.png" />
     <EmbeddedResource Include="Controls\Exploration\ImportSphere.png" />
     <EmbeddedResource Include="Controls\JournalGrid\ExportToExcel.png" />
     <EmbeddedResource Include="Controls\Main\Addons\EditLastActionPack.png" />
@@ -1047,8 +1046,8 @@
     <EmbeddedResource Include="Controls\Help\Wiki.png" />
     <EmbeddedResource Include="Controls\Help\Video.png" />
     <EmbeddedResource Include="Controls\EditSystem.png" />
-    <EmbeddedResource Include="Controls\Expedition\ImportSphere.png" />
-    <EmbeddedResource Include="Controls\Expedition\ImportNavRoute.png" />
+    <EmbeddedResource Include="Controls\ImportSphere.png" />
+    <EmbeddedResource Include="Controls\ImportNavRoute.png" />
     <Content Include="Controls\readme.txt" />
     <EmbeddedResource Include="Panels\MissionOverlay.png" />
     <EmbeddedResource Include="Journal\CrimeVictim.png" />
@@ -1087,7 +1086,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Controls\CaptainsLog\" />
+    <Folder Include="Controls\Expedition\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
