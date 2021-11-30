@@ -104,7 +104,7 @@
             // 
             // buttonNew
             // 
-            this.buttonNew.Image = global::EDDiscovery.Icons.Controls.Bookmarks_New;
+            this.buttonNew.Image = global::EDDiscovery.Icons.Controls.New;
             this.buttonNew.Location = new System.Drawing.Point(205, 1);
             this.buttonNew.Margin = new System.Windows.Forms.Padding(0, 1, 8, 1);
             this.buttonNew.Name = "buttonNew";

@@ -238,9 +238,9 @@ namespace EDDiscovery.Icons
         #region Bookmarks
         public static Image Edit { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Edit"); } }
         public static Image EditSystem { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.EditSystem"); } }
-        public static Image Bookmarks_New { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Bookmarks.New"); } }
+        public static Image New { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.New"); } }
         public static Image Delete { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Delete"); } }
-        public static Image ImportExcel { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Bookmarks.ImportExcel"); } }
+        public static Image ImportExcel { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ImportExcel"); } }
         #endregion
         #region EDDiscovery.UserControls.Search
         public static Image SearchStars { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Search.SearchStars"); } }

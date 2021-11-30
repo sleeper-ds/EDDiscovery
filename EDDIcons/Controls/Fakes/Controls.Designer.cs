@@ -103,16 +103,6 @@ namespace EDDiscovery.Icons {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap Bookmarks_New {
-            get {
-                object obj = ResourceManager.GetObject("Bookmarks_New", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         public static System.Drawing.Bitmap CaptainsLog_Delete {
             get {
                 object obj = ResourceManager.GetObject("CaptainsLog_Delete", resourceCulture);
@@ -1326,6 +1316,16 @@ namespace EDDiscovery.Icons {
         public static System.Drawing.Bitmap Modules_ShowOnCoriolis {
             get {
                 object obj = ResourceManager.GetObject("Modules_ShowOnCoriolis", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap New {
+            get {
+                object obj = ResourceManager.GetObject("New", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

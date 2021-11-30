@@ -520,7 +520,7 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Controls\Delete.png" />
-    <EmbeddedResource Include="Controls\Bookmarks\New.png" />
+    <EmbeddedResource Include="Controls\New.png" />
     <EmbeddedResource Include="Controls\Edit.png" />
   </ItemGroup>
   <ItemGroup>
@@ -787,7 +787,7 @@
     <EmbeddedResource Include="Journal\SquadronStartup.png" />
     <EmbeddedResource Include="Journal\ReservoirReplenished.png" />
     <EmbeddedResource Include="Journal\ProspectedAsteroid.png" />
-    <EmbeddedResource Include="Controls\Bookmarks\ImportExcel.png" />
+    <EmbeddedResource Include="Controls\ImportExcel.png" />
     <EmbeddedResource Include="Controls\CaptainsLog\Delete.png" />
     <EmbeddedResource Include="Controls\CaptainsLog\New.png" />
     <EmbeddedResource Include="Controls\CaptainsLog\Tags.png" />
