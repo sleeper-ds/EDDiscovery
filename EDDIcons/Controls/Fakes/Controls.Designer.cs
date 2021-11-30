@@ -113,6 +113,16 @@ namespace EDDiscovery.Icons {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap Coriolis {
+            get {
+                object obj = ResourceManager.GetObject("Coriolis", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap Cross {
             get {
                 object obj = ResourceManager.GetObject("Cross", resourceCulture);
@@ -206,6 +216,16 @@ namespace EDDiscovery.Icons {
         public static System.Drawing.Bitmap EditSystem {
             get {
                 object obj = ResourceManager.GetObject("EditSystem", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap EDShipYard {
+            get {
+                object obj = ResourceManager.GetObject("EDShipYard", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1223,36 +1243,6 @@ namespace EDDiscovery.Icons {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap Modules_Configure {
-            get {
-                object obj = ResourceManager.GetObject("Modules_Configure", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap Modules_EDShipYard {
-            get {
-                object obj = ResourceManager.GetObject("Modules_EDShipYard", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap Modules_ShowOnCoriolis {
-            get {
-                object obj = ResourceManager.GetObject("Modules_ShowOnCoriolis", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         public static System.Drawing.Bitmap New {
             get {
                 object obj = ResourceManager.GetObject("New", resourceCulture);
@@ -1686,6 +1676,16 @@ namespace EDDiscovery.Icons {
         public static System.Drawing.Bitmap ShowStarClasses {
             get {
                 object obj = ResourceManager.GetObject("ShowStarClasses", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap Spaceship {
+            get {
+                object obj = ResourceManager.GetObject("Spaceship", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

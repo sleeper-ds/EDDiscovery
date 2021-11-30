@@ -129,9 +129,9 @@ namespace EDDiscovery.Icons
         public static Image ShowOnMap { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ShowOnMap"); } }
         #endregion
          #region EDDiscovery.UserControls.UserControlModules
-        public static Image Modules_ShowOnCoriolis { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Modules.ShowOnCoriolis"); } }
-        public static Image Modules_EDShipYard { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Modules.EDShipYard"); } }
-        public static Image Modules_Configure { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Modules.Configure"); } }
+        public static Image Coriolis { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Coriolis"); } }
+        public static Image EDShipYard { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.EDShipYard"); } }
+        public static Image Spaceship { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Spaceship"); } }
         #endregion
         #region EDDiscovery.UserControls.UserControlRoute
         public static Image Route_ExportToExcel { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Route.ExportToExcel"); } }

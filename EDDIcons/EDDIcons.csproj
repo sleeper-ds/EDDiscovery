@@ -426,7 +426,7 @@
     <EmbeddedResource Include="Panels\ScanGrid.png" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Controls\Modules\ShowOnCoriolis.png" />
+    <EmbeddedResource Include="Controls\Coriolis.png" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Panels\Compass.png" />
@@ -521,8 +521,8 @@
     <EmbeddedResource Include="Journal\CargoDepot.png" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Controls\Modules\EDShipYard.png" />
-    <EmbeddedResource Include="Controls\Modules\Configure.png" />
+    <EmbeddedResource Include="Controls\EDShipYard.png" />
+    <EmbeddedResource Include="Controls\Spaceship.png" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Panels\OutfittingPanel.png" />
@@ -1080,6 +1080,8 @@
       <Name>BaseUtils</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Controls\Modules\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
