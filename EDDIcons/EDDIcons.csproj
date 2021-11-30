@@ -788,11 +788,10 @@
     <EmbeddedResource Include="Journal\ReservoirReplenished.png" />
     <EmbeddedResource Include="Journal\ProspectedAsteroid.png" />
     <EmbeddedResource Include="Controls\ImportExcel.png" />
-    <EmbeddedResource Include="Controls\CaptainsLog\Delete.png" />
     <EmbeddedResource Include="Controls\CaptainsLog\New.png" />
     <EmbeddedResource Include="Controls\CaptainsLog\Tags.png" />
-    <EmbeddedResource Include="Controls\CaptainsLog\Diary.png" />
-    <EmbeddedResource Include="Controls\CaptainsLog\Entries.png" />
+    <EmbeddedResource Include="Controls\Diary.png" />
+    <EmbeddedResource Include="Controls\Entries.png" />
     <EmbeddedResource Include="Controls\MaterialTrader\petal1.png" />
     <EmbeddedResource Include="Controls\MaterialTrader\petal2.png" />
     <EmbeddedResource Include="Controls\MaterialTrader\petal3.png" />

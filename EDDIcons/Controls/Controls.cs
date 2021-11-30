@@ -248,11 +248,10 @@ namespace EDDiscovery.Icons
         public static Image SearchScan { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Search.Scan"); } }
         #endregion
         #region EDDiscovery.UserControls.CaptainsLog
-        public static Image CaptainsLog_Delete { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.CaptainsLog.Delete"); } }
         public static Image CaptainsLog_New { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.CaptainsLog.New"); } }
         public static Image CaptainsLog_Tags { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.CaptainsLog.Tags"); } }
-        public static Image CaptainsLog_Entries { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.CaptainsLog.Entries"); } }
-        public static Image CaptainsLog_Diary { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.CaptainsLog.Diary"); } }
+        public static Image Entries { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Entries"); } }
+        public static Image Diary { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Diary"); } }
         #endregion
         #region Mat Commds
         public static Image matnozeros { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.MatCommds.matnozeros"); } }

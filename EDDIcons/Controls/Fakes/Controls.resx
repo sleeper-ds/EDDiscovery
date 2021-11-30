@@ -550,20 +550,11 @@
   <data name="notfirstdiscover" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\SysInfo\notfirstdiscover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="CaptainsLog_Delete" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\CaptainsLog\Delete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="CaptainsLog_New" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\CaptainsLog\New.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="CaptainsLog_Tags" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\CaptainsLog\Tags.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="CaptainsLog_Diary" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\CaptainsLog\Diary.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="CaptainsLog_Entries" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\CaptainsLog\Entries.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="TravelGrid_CursorToTop" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\TravelGrid\CursorToTop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -690,5 +681,11 @@
   </data>
   <data name="New" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\new.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Diary" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\diary.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Entries" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\entries.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
