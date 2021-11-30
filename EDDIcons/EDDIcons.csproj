@@ -397,11 +397,9 @@
     <EmbeddedResource Include="Controls\StatsTime\Text.png" />
     <EmbeddedResource Include="Controls\TabStrip\Popout.png" />
     <EmbeddedResource Include="Controls\ExportToExcel.png" />
-    <EmbeddedResource Include="Controls\Trilateration\RemoveAll.png" />
-    <EmbeddedResource Include="Controls\Trilateration\RemoveUnused.png" />
-    <EmbeddedResource Include="Controls\Trilateration\ShowOnMap.png" />
-    <EmbeddedResource Include="Controls\Trilateration\StartNew.png" />
-    <EmbeddedResource Include="Controls\Trilateration\SubmitDistances.png" />
+    <EmbeddedResource Include="Controls\Cross.png" />
+    <EmbeddedResource Include="Controls\Globe.png" />
+    <EmbeddedResource Include="Controls\SubmitDistances.png" />
     <EmbeddedResource Include="Controls\Map3D\Bookmarks\Noted.png" />
     <EmbeddedResource Include="Controls\Map3D\Bookmarks\Star.png" />
     <EmbeddedResource Include="Controls\Map3D\Bookmarks\Target.png" />
@@ -1083,8 +1081,6 @@
       <Name>BaseUtils</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controls\TravelGrid\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -218,7 +218,7 @@ namespace EDDiscovery.UserControls
             // toolStripButtonSubmitDistances
             // 
             this.toolStripButtonSubmitDistances.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
-            this.toolStripButtonSubmitDistances.Image = global::EDDiscovery.Icons.Controls.Trilateration_SubmitDistances;
+            this.toolStripButtonSubmitDistances.Image = global::EDDiscovery.Icons.Controls.SubmitDistances;
             this.toolStripButtonSubmitDistances.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.toolStripButtonSubmitDistances.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButtonSubmitDistances.Name = "toolStripButtonSubmitDistances";
@@ -228,7 +228,7 @@ namespace EDDiscovery.UserControls
             // 
             // toolStripButtonNew
             // 
-            this.toolStripButtonNew.Image = global::EDDiscovery.Icons.Controls.Trilateration_StartNew;
+            this.toolStripButtonNew.Image = global::EDDiscovery.Icons.Controls.ClearRoute;
             this.toolStripButtonNew.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.toolStripButtonNew.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButtonNew.Name = "toolStripButtonNew";
@@ -245,7 +245,7 @@ namespace EDDiscovery.UserControls
             // toolStripButtonRemoveUnused
             // 
             this.toolStripButtonRemoveUnused.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButtonRemoveUnused.Image = global::EDDiscovery.Icons.Controls.Trilateration_RemoveUnused;
+            this.toolStripButtonRemoveUnused.Image = global::EDDiscovery.Icons.Controls.Delete;
             this.toolStripButtonRemoveUnused.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.toolStripButtonRemoveUnused.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButtonRemoveUnused.Name = "toolStripButtonRemoveUnused";
@@ -257,7 +257,7 @@ namespace EDDiscovery.UserControls
             // toolStripButtonRemoveAll
             // 
             this.toolStripButtonRemoveAll.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButtonRemoveAll.Image = global::EDDiscovery.Icons.Controls.Trilateration_RemoveAll;
+            this.toolStripButtonRemoveAll.Image = global::EDDiscovery.Icons.Controls.Cross;
             this.toolStripButtonRemoveAll.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.toolStripButtonRemoveAll.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButtonRemoveAll.Name = "toolStripButtonRemoveAll";
@@ -269,7 +269,7 @@ namespace EDDiscovery.UserControls
             // toolStripButtonMap
             // 
             this.toolStripButtonMap.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButtonMap.Image = global::EDDiscovery.Icons.Controls.Trilateration_ShowOnMap;
+            this.toolStripButtonMap.Image = global::EDDiscovery.Icons.Controls.Globe;
             this.toolStripButtonMap.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.toolStripButtonMap.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButtonMap.Name = "toolStripButtonMap";
@@ -480,8 +480,9 @@ namespace EDDiscovery.UserControls
             this.richTextBox_History.Location = new System.Drawing.Point(0, 0);
             this.richTextBox_History.Name = "richTextBox_History";
             this.richTextBox_History.ReadOnly = false;
-            this.richTextBox_History.Rtf = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang2057{\\fonttbl{\\f0\\fnil\\fcharset0 Microsoft S" +
-    "ans Serif;}}\r\n\\viewkind4\\uc1\\pard\\f0\\fs17\\par\r\n}\r\n";
+            this.richTextBox_History.Rtf = "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang2057{\\fonttbl{\\f0\\fnil\\fcharset0 " +
+    "Microsoft Sans Serif;}}\r\n{\\*\\generator Riched20 10.0.19041}\\viewkind4\\uc1 \r\n\\par" +
+    "d\\f0\\fs17\\par\r\n}\r\n";
             this.richTextBox_History.ScrollBarArrowBorderColor = System.Drawing.Color.LightBlue;
             this.richTextBox_History.ScrollBarArrowButtonColor = System.Drawing.Color.LightGray;
             this.richTextBox_History.ScrollBarBackColor = System.Drawing.SystemColors.Control;
@@ -545,6 +546,7 @@ namespace EDDiscovery.UserControls
             this.dataGridViewClosestSystems.AllowUserToDeleteRows = false;
             this.dataGridViewClosestSystems.AllowUserToResizeRows = false;
             this.dataGridViewClosestSystems.ClipboardCopyMode = System.Windows.Forms.DataGridViewClipboardCopyMode.EnableWithoutHeaderText;
+            this.dataGridViewClosestSystems.ColumnHeaderMenuStrip = null;
             dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
             dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
@@ -563,10 +565,13 @@ namespace EDDiscovery.UserControls
             this.dataGridViewClosestSystems.Location = new System.Drawing.Point(0, 0);
             this.dataGridViewClosestSystems.Name = "dataGridViewClosestSystems";
             this.dataGridViewClosestSystems.ReadOnly = true;
+            this.dataGridViewClosestSystems.RowHeaderMenuStrip = null;
             this.dataGridViewClosestSystems.RowHeadersVisible = false;
             this.dataGridViewClosestSystems.ScrollBars = System.Windows.Forms.ScrollBars.None;
+            this.dataGridViewClosestSystems.SingleRowSelect = true;
             this.dataGridViewClosestSystems.Size = new System.Drawing.Size(480, 820);
             this.dataGridViewClosestSystems.TabIndex = 13;
+            this.dataGridViewClosestSystems.TopLeftHeaderMenuStrip = null;
             this.dataGridViewClosestSystems.CellMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dataGridViewClosestSystems_CellMouseClick);
             // 
             // Source

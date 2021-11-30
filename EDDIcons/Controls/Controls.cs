@@ -201,11 +201,9 @@ namespace EDDiscovery.Icons
         public static Image WordWrapOn { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.WordWrapOn"); } }
         #endregion
         #region EDDiscovery.UserControls.UserControlTrilateration
-        public static Image Trilateration_RemoveAll { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Trilateration.RemoveAll"); } }
-        public static Image Trilateration_RemoveUnused { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Trilateration.RemoveUnused"); } }
-        public static Image Trilateration_ShowOnMap { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Trilateration.ShowOnMap"); } }
-        public static Image Trilateration_StartNew { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Trilateration.StartNew"); } }
-        public static Image Trilateration_SubmitDistances { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Trilateration.SubmitDistances"); } }
+        public static Image Cross { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Cross"); } }
+        public static Image Globe { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Globe"); } }
+        public static Image SubmitDistances { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.SubmitDistances"); } }
         #endregion
         #region EDDiscovery.UserControls.UserControlContainerGrid
         public static Image UCContainer_Panels { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.UCContainer.Panels"); } }

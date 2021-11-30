@@ -484,21 +484,6 @@
   <data name="StatsTime_Text" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\StatsTime\Text.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Trilateration_RemoveAll" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Trilateration\RemoveAll.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Trilateration_RemoveUnused" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Trilateration\RemoveUnused.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Trilateration_ShowOnMap" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Trilateration\ShowOnMap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Trilateration_StartNew" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Trilateration\StartNew.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Trilateration_SubmitDistances" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Trilateration\SubmitDistances.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="UCContainer_Panels" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\UCContainer\Panels.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -652,6 +637,9 @@
   <data name="Wiki" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\wiki.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Cross" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\cross.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="CursorStill" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\cursorstill.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -670,8 +658,14 @@
   <data name="FlagStop" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\flagstop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Globe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\globe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Outlines" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\outlines.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SubmitDistances" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\submitdistances.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="WordWrapOff" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\wordwrapoff.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
