@@ -490,29 +490,8 @@
   <data name="FSSBodySignals" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\..\journal\fssbodysignals.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="AlignCentre" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\surveyor\aligncentre.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="AlignLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\surveyor\alignleft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="AlignRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\surveyor\alignright.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Route" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\surveyor\route.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="RouteConfig" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\surveyor\routeconfig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Eccentric" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\surveyor\eccentric.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="LandablePlanet" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\scan\bodies\landableplanet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Font" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Surveyor\Font.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Delete" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\delete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -640,6 +619,18 @@
   <data name="ZoomToFit" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\zoomtofit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="AlignCentre" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\aligncentre.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AlignLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\alignleft.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AlignRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\alignright.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eccentric" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\eccentric.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="EDDB" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\eddb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -649,11 +640,20 @@
   <data name="firstdiscover" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\firstdiscover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Font" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\font.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Inara" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\inara.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="notfirstdiscover" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\notfirstdiscover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Route" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\route.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RouteConfig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\routeconfig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Scan" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\scan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

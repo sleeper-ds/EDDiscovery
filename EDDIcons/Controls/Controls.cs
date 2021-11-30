@@ -249,13 +249,13 @@ namespace EDDiscovery.Icons
         #endregion
 
         #region Surveyor
-        public static Image AlignCentre { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Surveyor.AlignCentre"); } }
-        public static Image AlignLeft { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Surveyor.AlignLeft"); } }
-        public static Image AlignRight { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Surveyor.AlignRight"); } }
-        public static Image Route { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Surveyor.Route"); } }
-        public static Image RouteConfig { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Surveyor.RouteConfig"); } }
-        public static Image Eccentric { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Surveyor.Eccentric"); } }
-        public static Image Font { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Surveyor.Font"); } }
+        public static Image AlignCentre { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.AlignCentre"); } }
+        public static Image AlignLeft { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.AlignLeft"); } }
+        public static Image AlignRight { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.AlignRight"); } }
+        public static Image Route { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Route"); } }
+        public static Image RouteConfig { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.RouteConfig"); } }
+        public static Image Eccentric { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Eccentric"); } }
+        public static Image Font { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Font"); } }
 
         #endregion
     }
