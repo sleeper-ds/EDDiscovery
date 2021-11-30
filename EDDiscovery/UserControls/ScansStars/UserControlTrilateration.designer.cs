@@ -46,6 +46,7 @@ namespace EDDiscovery.UserControls
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(UserControlTrilateration));
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.trilatContextMenu = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.addToWantedSystemsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -218,21 +219,21 @@ namespace EDDiscovery.UserControls
             // toolStripButtonSubmitDistances
             // 
             this.toolStripButtonSubmitDistances.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
-            this.toolStripButtonSubmitDistances.Image = global::EDDiscovery.Icons.Controls.SubmitDistances;
+            this.toolStripButtonSubmitDistances.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButtonSubmitDistances.Image")));
             this.toolStripButtonSubmitDistances.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.toolStripButtonSubmitDistances.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButtonSubmitDistances.Name = "toolStripButtonSubmitDistances";
-            this.toolStripButtonSubmitDistances.Size = new System.Drawing.Size(126, 29);
+            this.toolStripButtonSubmitDistances.Size = new System.Drawing.Size(103, 29);
             this.toolStripButtonSubmitDistances.Text = "&Submit Distances";
             this.toolStripButtonSubmitDistances.Click += new System.EventHandler(this.toolStripButtonSubmitDistances_Click);
             // 
             // toolStripButtonNew
             // 
-            this.toolStripButtonNew.Image = global::EDDiscovery.Icons.Controls.ClearRoute;
+            this.toolStripButtonNew.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButtonNew.Image")));
             this.toolStripButtonNew.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.toolStripButtonNew.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButtonNew.Name = "toolStripButtonNew";
-            this.toolStripButtonNew.Size = new System.Drawing.Size(84, 29);
+            this.toolStripButtonNew.Size = new System.Drawing.Size(61, 29);
             this.toolStripButtonNew.Text = "Start &new";
             this.toolStripButtonNew.ToolTipText = "Enter distances to systems with unknown coordinates";
             this.toolStripButtonNew.Click += new System.EventHandler(this.buttonStartNew_Click);
@@ -245,11 +246,11 @@ namespace EDDiscovery.UserControls
             // toolStripButtonRemoveUnused
             // 
             this.toolStripButtonRemoveUnused.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButtonRemoveUnused.Image = global::EDDiscovery.Icons.Controls.Delete;
+            this.toolStripButtonRemoveUnused.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButtonRemoveUnused.Image")));
             this.toolStripButtonRemoveUnused.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.toolStripButtonRemoveUnused.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButtonRemoveUnused.Name = "toolStripButtonRemoveUnused";
-            this.toolStripButtonRemoveUnused.Size = new System.Drawing.Size(28, 29);
+            this.toolStripButtonRemoveUnused.Size = new System.Drawing.Size(23, 29);
             this.toolStripButtonRemoveUnused.Text = "<code>";
             this.toolStripButtonRemoveUnused.ToolTipText = "Remove unused";
             this.toolStripButtonRemoveUnused.Click += new System.EventHandler(this.toolStripButtonRemoveUnused_Click);
@@ -257,11 +258,11 @@ namespace EDDiscovery.UserControls
             // toolStripButtonRemoveAll
             // 
             this.toolStripButtonRemoveAll.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButtonRemoveAll.Image = global::EDDiscovery.Icons.Controls.Cross;
+            this.toolStripButtonRemoveAll.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButtonRemoveAll.Image")));
             this.toolStripButtonRemoveAll.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.toolStripButtonRemoveAll.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButtonRemoveAll.Name = "toolStripButtonRemoveAll";
-            this.toolStripButtonRemoveAll.Size = new System.Drawing.Size(28, 29);
+            this.toolStripButtonRemoveAll.Size = new System.Drawing.Size(23, 29);
             this.toolStripButtonRemoveAll.Text = "<code>";
             this.toolStripButtonRemoveAll.ToolTipText = "Remove all";
             this.toolStripButtonRemoveAll.Click += new System.EventHandler(this.toolStripButtonRemoveAll_Click);
@@ -269,11 +270,11 @@ namespace EDDiscovery.UserControls
             // toolStripButtonMap
             // 
             this.toolStripButtonMap.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripButtonMap.Image = global::EDDiscovery.Icons.Controls.Globe;
+            this.toolStripButtonMap.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButtonMap.Image")));
             this.toolStripButtonMap.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.toolStripButtonMap.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButtonMap.Name = "toolStripButtonMap";
-            this.toolStripButtonMap.Size = new System.Drawing.Size(28, 29);
+            this.toolStripButtonMap.Size = new System.Drawing.Size(23, 29);
             this.toolStripButtonMap.Text = "<code>";
             this.toolStripButtonMap.ToolTipText = "Show 3d map";
             this.toolStripButtonMap.Click += new System.EventHandler(this.toolStripButtonMap_Click);

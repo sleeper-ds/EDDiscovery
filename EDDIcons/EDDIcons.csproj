@@ -395,7 +395,7 @@
     <EmbeddedResource Include="Controls\StatsTime\Planets.png" />
     <EmbeddedResource Include="Controls\StatsTime\Stars.png" />
     <EmbeddedResource Include="Controls\StatsTime\Text.png" />
-    <EmbeddedResource Include="Controls\TabStrip\Popout.png" />
+    <EmbeddedResource Include="Controls\Popout.png" />
     <EmbeddedResource Include="Controls\ExportToExcel.png" />
     <EmbeddedResource Include="Controls\Cross.png" />
     <EmbeddedResource Include="Controls\Globe.png" />
@@ -800,8 +800,8 @@
     <EmbeddedResource Include="Controls\Main\Admin\SendInara.png" />
     <EmbeddedResource Include="Controls\MaterialTrader\manubackground.png" />
     <EmbeddedResource Include="Controls\MaterialTrader\rawbackground.png" />
-    <EmbeddedResource Include="Controls\MatCommds\matnozeros.png" />
-    <EmbeddedResource Include="Controls\MatCommds\matshowzeros.png" />
+    <EmbeddedResource Include="Controls\redzero.png" />
+    <EmbeddedResource Include="Controls\greenzero.png" />
     <EmbeddedResource Include="Bodies\Stars\A.png" />
     <EmbeddedResource Include="Bodies\Stars\B.png" />
     <EmbeddedResource Include="Bodies\Stars\C.png" />
@@ -1081,6 +1081,9 @@
       <Name>BaseUtils</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Controls\MatCommds\" />
+    <Folder Include="Controls\TabStrip\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

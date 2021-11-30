@@ -219,7 +219,7 @@ namespace EDDiscovery.Icons
         public static Image Inara { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.SysInfo.Inara"); } }
         #endregion
         #region TabStrip
-        public static Image TabStrip_Popout { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.TabStrip.Popout"); } }
+        public static Image Popout { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Popout"); } }
         #endregion
         #region Selector
         public static Image Selector_Background { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Selector.Selector"); } }
@@ -245,8 +245,8 @@ namespace EDDiscovery.Icons
         public static Image Diary { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Diary"); } }
         #endregion
         #region Mat Commds
-        public static Image matnozeros { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.MatCommds.matnozeros"); } }
-        public static Image matshowzeros { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.MatCommds.matshowzeros"); } }
+        public static Image redzero { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.redzero"); } }
+        public static Image greenzero { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.greenzero"); } }
         #endregion
         #region Help
         public static Image Wiki { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Wiki"); } }
