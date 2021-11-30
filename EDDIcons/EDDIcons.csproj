@@ -666,10 +666,10 @@
     <EmbeddedResource Include="Panels\MiningOverlay.png" />
     <EmbeddedResource Include="GalMap\Galaxy_L.jpg" />
     <EmbeddedResource Include="GalMap\Galaxy_L_Grid.jpg" />
-    <EmbeddedResource Include="Controls\SysInfo\spansh.png" />
-    <EmbeddedResource Include="Controls\SysInfo\EDDB.png" />
+    <EmbeddedResource Include="Controls\spansh.png" />
+    <EmbeddedResource Include="Controls\EDDB.png" />
     <EmbeddedResource Include="Controls\SysInfo\EDSM.png" />
-    <EmbeddedResource Include="Controls\SysInfo\Inara.PNG" />
+    <EmbeddedResource Include="Controls\Inara.PNG" />
     <EmbeddedResource Include="Journal\CargoTransfer.png" />
     <EmbeddedResource Include="Journal\CarrierStats.png" />
     <EmbeddedResource Include="Journal\NavRoute.png" />
