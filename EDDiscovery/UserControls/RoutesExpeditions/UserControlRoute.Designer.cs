@@ -150,7 +150,7 @@
             // buttonExtExcel
             // 
             this.buttonExtExcel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonExtExcel.Image = global::EDDiscovery.Icons.Controls.Route_ExportToExcel;
+            this.buttonExtExcel.Image = global::EDDiscovery.Icons.Controls.ExportToExcel;
             this.buttonExtExcel.Location = new System.Drawing.Point(304, 158);
             this.buttonExtExcel.Name = "buttonExtExcel";
             this.buttonExtExcel.Size = new System.Drawing.Size(24, 24);

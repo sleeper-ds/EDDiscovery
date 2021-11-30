@@ -103,6 +103,16 @@ namespace EDDiscovery.Icons {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap Belt {
+            get {
+                object obj = ResourceManager.GetObject("Belt", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap ClearRoute {
             get {
                 object obj = ResourceManager.GetObject("ClearRoute", resourceCulture);
@@ -1293,39 +1303,9 @@ namespace EDDiscovery.Icons {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap RollUpPanel_PinDown {
-            get {
-                object obj = ResourceManager.GetObject("RollUpPanel_PinDown", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap RollUpPanel_PinUp {
-            get {
-                object obj = ResourceManager.GetObject("RollUpPanel_PinUp", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         public static System.Drawing.Bitmap Route {
             get {
                 object obj = ResourceManager.GetObject("Route", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap Route_ExportToExcel {
-            get {
-                object obj = ResourceManager.GetObject("Route_ExportToExcel", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

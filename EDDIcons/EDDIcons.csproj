@@ -374,9 +374,6 @@
     <EmbeddedResource Include="Controls\Main\Tools\Open3DMap.png" />
     <EmbeddedResource Include="Controls\Main\Tools\Popouts\ShowAllInTaskbar.png" />
     <EmbeddedResource Include="Controls\Main\Tools\Popouts\DisableTransparency.png" />
-    <EmbeddedResource Include="Controls\RollUpPanel\PinDown.png" />
-    <EmbeddedResource Include="Controls\RollUpPanel\PinUp.png" />
-    <EmbeddedResource Include="Controls\Route\ExportToExcel.png" />
     <EmbeddedResource Include="Controls\Scan\ExportToExcel.png" />
     <EmbeddedResource Include="Controls\Scan\FetchEDSMBodies.png" />
     <EmbeddedResource Include="Controls\Scan\ShowAllMaterials.png" />
@@ -1051,7 +1048,7 @@
     <EmbeddedResource Include="Controls\Search\SearchMaterials.png" />
     <EmbeddedResource Include="Panels\Search.png" />
     <EmbeddedResource Include="Controls\Search\SearchStars.png" />
-    <EmbeddedResource Include="Controls\ScanGrid\Belt.png" />
+    <EmbeddedResource Include="Controls\Belt.png" />
     <EmbeddedResource Include="Panels\GroupMarker.png" />
     <EmbeddedResource Include="Journal\CodexEntry.png" />
     <EmbeddedResource Include="Journal\SAAScanComplete.png" />
@@ -1080,8 +1077,6 @@
       <Name>BaseUtils</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controls\Modules\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

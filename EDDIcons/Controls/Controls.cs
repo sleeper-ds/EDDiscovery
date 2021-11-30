@@ -133,9 +133,6 @@ namespace EDDiscovery.Icons
         public static Image EDShipYard { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.EDShipYard"); } }
         public static Image Spaceship { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Spaceship"); } }
         #endregion
-        #region EDDiscovery.UserControls.UserControlRoute
-        public static Image Route_ExportToExcel { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Route.ExportToExcel"); } }
-        #endregion
         #region EDDiscovery.UserControls.UserControlScan
         public static Image Scan_Bodies_Landable { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Scan.Bodies.Landable"); } }
         public static Image Scan_Bodies_LandablePlanet { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Scan.Bodies.LandablePlanet"); } }
@@ -171,9 +168,7 @@ namespace EDDiscovery.Icons
         public static Image ShowPlanetClasses { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Scan.ShowPlanetClasses"); } }
         public static Image ShowStarClasses { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Scan.ShowStarClasses"); } }
         #endregion
-        #region EDDiscovery.UserControls.UserControlScanGrid
-        public static Image ScanGrid_Belt { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ScanGrid.Belt"); } }
-        #endregion
+        public static Image Belt { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Belt"); } }
         #region EDDiscovery.UserControls.UserControlSPanel
         public static Image SPanel_ResizeColumn { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.SPanel.ResizeColumn"); } }
         #endregion
