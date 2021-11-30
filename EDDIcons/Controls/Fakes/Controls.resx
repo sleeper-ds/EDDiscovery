@@ -433,18 +433,6 @@
   <data name="SPanel_ResizeColumn" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\SPanel\ResizeColumn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="StatsTime_Graph" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\StatsTime\Graph.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="StatsTime_Planets" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\StatsTime\Planets.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="StatsTime_Stars" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\StatsTime\Stars.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="StatsTime_Text" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\StatsTime\Text.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="UCContainer_Panels" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\UCContainer\Panels.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -643,11 +631,17 @@
   <data name="Font" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\font.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Graph" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\graph.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Inara" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\inara.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="notfirstdiscover" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\notfirstdiscover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Planets" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\planets.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Route" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\route.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -666,5 +660,11 @@
   </data>
   <data name="spansh" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\spansh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stars" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\stars.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Text" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\text.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -363,6 +363,16 @@ namespace EDDiscovery.Icons {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap Graph {
+            get {
+                object obj = ResourceManager.GetObject("Graph", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap greenzero {
             get {
                 object obj = ResourceManager.GetObject("greenzero", resourceCulture);
@@ -1293,6 +1303,16 @@ namespace EDDiscovery.Icons {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap Planets {
+            get {
+                object obj = ResourceManager.GetObject("Planets", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap redzero {
             get {
                 object obj = ResourceManager.GetObject("redzero", resourceCulture);
@@ -1733,39 +1753,9 @@ namespace EDDiscovery.Icons {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap StatsTime_Graph {
+        public static System.Drawing.Bitmap Stars {
             get {
-                object obj = ResourceManager.GetObject("StatsTime_Graph", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap StatsTime_Planets {
-            get {
-                object obj = ResourceManager.GetObject("StatsTime_Planets", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap StatsTime_Stars {
-            get {
-                object obj = ResourceManager.GetObject("StatsTime_Stars", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap StatsTime_Text {
-            get {
-                object obj = ResourceManager.GetObject("StatsTime_Text", resourceCulture);
+                object obj = ResourceManager.GetObject("Stars", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1786,6 +1776,16 @@ namespace EDDiscovery.Icons {
         public static System.Drawing.Bitmap Tags {
             get {
                 object obj = ResourceManager.GetObject("Tags", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap Text {
+            get {
+                object obj = ResourceManager.GetObject("Text", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

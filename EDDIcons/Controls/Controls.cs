@@ -173,10 +173,10 @@ namespace EDDiscovery.Icons
         public static Image SPanel_ResizeColumn { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.SPanel.ResizeColumn"); } }
         #endregion
         #region EDDiscovery.UserControls.UserControlStatsTime
-        public static Image StatsTime_Graph { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.StatsTime.Graph"); } }
-        public static Image StatsTime_Planets { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.StatsTime.Planets"); } }
-        public static Image StatsTime_Stars { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.StatsTime.Stars"); } }
-        public static Image StatsTime_Text { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.StatsTime.Text"); } }
+        public static Image Graph { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Graph"); } }
+        public static Image Planets { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Planets"); } }
+        public static Image Stars { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Stars"); } }
+        public static Image Text { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Text"); } }
         #endregion
         #region EDDiscovery.UserControls.UserControlTravelGrid
         public static Image ExportToExcel { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ExportToExcel"); } }
