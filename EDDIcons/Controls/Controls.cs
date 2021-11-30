@@ -173,7 +173,6 @@ namespace EDDiscovery.Icons
         public static Image SPanel_ResizeColumn { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.SPanel.ResizeColumn"); } }
         #endregion
         #region EDDiscovery.UserControls.UserControlStarList
-        public static Image StarList_EDSM { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.StarList.EDSM"); } }
         public static Image StarList_ExportToExcel { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.StarList.ExportToExcel"); } }
         #endregion
         #region EDDiscovery.UserControls.UserControlStatsTime
@@ -209,7 +208,7 @@ namespace EDDiscovery.Icons
         public static Image notfirstdiscover { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.SysInfo.notfirstdiscover"); } }
         public static Image spansh { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.SysInfo.spansh"); } }
         public static Image EDDB { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.SysInfo.EDDB"); } }
-        public static Image EDSM { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.SysInfo.EDSM"); } }
+        public static Image EDSM { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.EDSM"); } }
         public static Image Inara { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.SysInfo.Inara"); } }
         #endregion
         #region TabStrip

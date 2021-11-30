@@ -385,7 +385,7 @@
     <EmbeddedResource Include="Controls\Scan\SizeMedium.png" />
     <EmbeddedResource Include="Controls\Scan\SizeSmall.png" />
     <EmbeddedResource Include="Controls\Scan\SizeTiny.png" />
-    <EmbeddedResource Include="Controls\StarList\EDSM.png" />
+    <EmbeddedResource Include="Controls\EDSM.png" />
     <EmbeddedResource Include="Controls\StarList\ExportToExcel.png" />
     <EmbeddedResource Include="Controls\StatsTime\Graph.png" />
     <EmbeddedResource Include="Controls\StatsTime\Planets.png" />
