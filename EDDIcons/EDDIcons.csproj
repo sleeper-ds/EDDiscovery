@@ -519,9 +519,9 @@
     <EmbeddedResource Include="Panels\BookmarkManager.png" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Controls\Bookmarks\Delete.png" />
+    <EmbeddedResource Include="Controls\Delete.png" />
     <EmbeddedResource Include="Controls\Bookmarks\New.png" />
-    <EmbeddedResource Include="Controls\Bookmarks\Edit.png" />
+    <EmbeddedResource Include="Controls\Edit.png" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Journal\CargoDepot.png" />
@@ -1047,7 +1047,7 @@
     <EmbeddedResource Include="Bodies\Planets\Giant\GG4v13.png" />
     <EmbeddedResource Include="Controls\Help\Wiki.png" />
     <EmbeddedResource Include="Controls\Help\Video.png" />
-    <EmbeddedResource Include="Controls\Bookmarks\EditSystem.png" />
+    <EmbeddedResource Include="Controls\EditSystem.png" />
     <EmbeddedResource Include="Controls\Expedition\ImportSphere.png" />
     <EmbeddedResource Include="Controls\Expedition\ImportNavRoute.png" />
     <Content Include="Controls\readme.txt" />

@@ -92,7 +92,7 @@
             // 
             // buttonDelete
             // 
-            this.buttonDelete.Image = global::EDDiscovery.Icons.Controls.Bookmarks_Delete;
+            this.buttonDelete.Image = global::EDDiscovery.Icons.Controls.Delete;
             this.buttonDelete.Location = new System.Drawing.Point(313, 1);
             this.buttonDelete.Margin = new System.Windows.Forms.Padding(0, 1, 8, 1);
             this.buttonDelete.Name = "buttonDelete";
@@ -116,7 +116,7 @@
             // 
             // buttonEdit
             // 
-            this.buttonEdit.Image = global::EDDiscovery.Icons.Controls.Bookmarks_Edit;
+            this.buttonEdit.Image = global::EDDiscovery.Icons.Controls.Edit;
             this.buttonEdit.Location = new System.Drawing.Point(241, 1);
             this.buttonEdit.Margin = new System.Windows.Forms.Padding(0, 1, 8, 1);
             this.buttonEdit.Name = "buttonEdit";
@@ -320,7 +320,7 @@
             // 
             // extButtonEditSystem
             // 
-            this.extButtonEditSystem.Image = global::EDDiscovery.Icons.Controls.Bookmarks_EditSystem;
+            this.extButtonEditSystem.Image = global::EDDiscovery.Icons.Controls.EditSystem;
             this.extButtonEditSystem.Location = new System.Drawing.Point(277, 1);
             this.extButtonEditSystem.Margin = new System.Windows.Forms.Padding(0, 1, 8, 1);
             this.extButtonEditSystem.Name = "extButtonEditSystem";

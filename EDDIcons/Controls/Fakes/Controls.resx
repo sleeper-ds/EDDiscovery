@@ -547,14 +547,8 @@
   <data name="UCContainer_Tile" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\UCContainer\Tile.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Bookmarks_Edit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Bookmarks\Edit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Bookmarks_New" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Bookmarks\New.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Bookmarks_Delete" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Bookmarks\Delete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="firstdiscover" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\SysInfo\firstdiscover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -652,9 +646,6 @@
   <data name="Help_Wiki" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\help\wiki.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Bookmarks_EditSystem" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Bookmarks\EditSystem.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Scan_FSD" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\scan\fsd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -690,5 +681,14 @@
   </data>
   <data name="Font" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Surveyor\Font.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Delete" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\delete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Edit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\edit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EditSystem" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\editsystem.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

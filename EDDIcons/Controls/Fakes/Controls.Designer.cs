@@ -103,36 +103,6 @@ namespace EDDiscovery.Icons {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap Bookmarks_Delete {
-            get {
-                object obj = ResourceManager.GetObject("Bookmarks_Delete", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap Bookmarks_Edit {
-            get {
-                object obj = ResourceManager.GetObject("Bookmarks_Edit", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap Bookmarks_EditSystem {
-            get {
-                object obj = ResourceManager.GetObject("Bookmarks_EditSystem", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         public static System.Drawing.Bitmap Bookmarks_New {
             get {
                 object obj = ResourceManager.GetObject("Bookmarks_New", resourceCulture);
@@ -193,6 +163,16 @@ namespace EDDiscovery.Icons {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap Delete {
+            get {
+                object obj = ResourceManager.GetObject("Delete", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap DisplayFilters {
             get {
                 object obj = ResourceManager.GetObject("DisplayFilters", resourceCulture);
@@ -216,6 +196,26 @@ namespace EDDiscovery.Icons {
         public static System.Drawing.Bitmap EDDB {
             get {
                 object obj = ResourceManager.GetObject("EDDB", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap Edit {
+            get {
+                object obj = ResourceManager.GetObject("Edit", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap EditSystem {
+            get {
+                object obj = ResourceManager.GetObject("EditSystem", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

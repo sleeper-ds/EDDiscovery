@@ -236,10 +236,10 @@ namespace EDDiscovery.Icons
         public static Image Selector_AddTab { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Selector.Addtab"); } }
         #endregion
         #region Bookmarks
-        public static Image Bookmarks_Edit { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Bookmarks.Edit"); } }
-        public static Image Bookmarks_EditSystem { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Bookmarks.EditSystem"); } }
+        public static Image Edit { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Edit"); } }
+        public static Image EditSystem { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.EditSystem"); } }
         public static Image Bookmarks_New { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Bookmarks.New"); } }
-        public static Image Bookmarks_Delete { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Bookmarks.Delete"); } }
+        public static Image Delete { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Delete"); } }
         public static Image ImportExcel { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Bookmarks.ImportExcel"); } }
         #endregion
         #region EDDiscovery.UserControls.Search
