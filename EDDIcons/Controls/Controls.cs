@@ -197,8 +197,8 @@ namespace EDDiscovery.Icons
         public static Image Outlines { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Outlines"); } }
         public static Image FieldFilter { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.FieldFilter"); } }
         public static Image EventFilter { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.EventFilter"); } }
-        public static Image WordWrapOff { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.TravelGrid.WordWrapOff"); } }
-        public static Image WordWrapOn { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.TravelGrid.WordWrapOn"); } }
+        public static Image WordWrapOff { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.WordWrapOff"); } }
+        public static Image WordWrapOn { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.WordWrapOn"); } }
         #endregion
         #region EDDiscovery.UserControls.UserControlTrilateration
         public static Image Trilateration_RemoveAll { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Trilateration.RemoveAll"); } }

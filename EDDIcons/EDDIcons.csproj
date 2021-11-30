@@ -704,8 +704,8 @@
     <EmbeddedResource Include="Controls\Scan\ShowStarClasses.png" />
     <EmbeddedResource Include="Controls\Scan\DisplayFilters.png" />
     <EmbeddedResource Include="Panels\MaterialTrader.png" />
-    <EmbeddedResource Include="Controls\TravelGrid\WordWrapOff.png" />
-    <EmbeddedResource Include="Controls\TravelGrid\WordWrapOn.png" />
+    <EmbeddedResource Include="Controls\WordWrapOff.png" />
+    <EmbeddedResource Include="Controls\WordWrapOn.png" />
     <EmbeddedResource Include="Controls\Scan\Bodies\Signals.png" />
     <EmbeddedResource Include="Journal\SAASignalsFound.png" />
     <EmbeddedResource Include="General\OrderHoldPosition.png" />
@@ -1083,6 +1083,8 @@
       <Name>BaseUtils</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Controls\TravelGrid\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
