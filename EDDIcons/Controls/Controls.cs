@@ -228,9 +228,9 @@ namespace EDDiscovery.Icons
         public static Image ImportExcel { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ImportExcel"); } }
         #endregion
         #region EDDiscovery.UserControls.Search
-        public static Image SearchStars { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Search.SearchStars"); } }
-        public static Image SearchMaterials { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Search.SearchMaterials"); } }
-        public static Image SearchScan { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Search.Scan"); } }
+        public static Image SearchStars { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.SearchStars"); } }
+        public static Image SearchMaterials { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.SearchMaterials"); } }
+        public static Image Scan { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Scan"); } }
         #endregion
         #region EDDiscovery.UserControls.CaptainsLog
         public static Image NewPage { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.NewPage"); } }

@@ -1333,6 +1333,16 @@ namespace EDDiscovery.Icons {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap Scan {
+            get {
+                object obj = ResourceManager.GetObject("Scan", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap Scan_Bodies_Barycentre {
             get {
                 object obj = ResourceManager.GetObject("Scan_Bodies_Barycentre", resourceCulture);
@@ -1586,6 +1596,26 @@ namespace EDDiscovery.Icons {
         public static System.Drawing.Bitmap Scan_Star {
             get {
                 object obj = ResourceManager.GetObject("Scan_Star", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap SearchMaterials {
+            get {
+                object obj = ResourceManager.GetObject("SearchMaterials", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap SearchStars {
+            get {
+                object obj = ResourceManager.GetObject("SearchStars", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
