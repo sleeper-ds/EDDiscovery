@@ -514,26 +514,11 @@
   <data name="notfirstdiscover" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\SysInfo\notfirstdiscover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="TravelGrid_CursorToTop" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\TravelGrid\CursorToTop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="TravelGrid_EventFilter" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\TravelGrid\EventFilter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="TravelGrid_FieldFilter" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\TravelGrid\FieldFilter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="TravelGrid_Outlines" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\TravelGrid\Outlines.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Scan_Star" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Scan\Star.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Scan_DisplaySystemAlways" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Scan\DisplaySystemAlways.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="TravelGrid_CursorStill" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\TravelGrid\CursorStill.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="backbutton" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Scan\backbutton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -673,10 +658,25 @@
   <data name="Wiki" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\wiki.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="CursorStill" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\cursorstill.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CursorToTop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\cursortotop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EventFilter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\eventfilter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FieldFilter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\fieldfilter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="FlagStart" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\flagstart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="FlagStop" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\flagstop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Outlines" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\outlines.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

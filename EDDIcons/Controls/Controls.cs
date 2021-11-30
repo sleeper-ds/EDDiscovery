@@ -192,11 +192,11 @@ namespace EDDiscovery.Icons
         public static Image ExportToExcel { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.ExportToExcel"); } }
         public static Image FlagStart { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.FlagStart"); } }
         public static Image FlagStop { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.FlagStop"); } }
-        public static Image TravelGrid_CursorToTop { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.TravelGrid.CursorToTop"); } }
-        public static Image TravelGrid_CursorStill { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.TravelGrid.CursorStill"); } }
-        public static Image TravelGrid_Outlines { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.TravelGrid.Outlines"); } }
-        public static Image TravelGrid_FieldFilter { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.TravelGrid.FieldFilter"); } }
-        public static Image TravelGrid_EventFilter { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.TravelGrid.EventFilter"); } }
+        public static Image CursorToTop { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.CursorToTop"); } }
+        public static Image CursorStill { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.CursorStill"); } }
+        public static Image Outlines { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.Outlines"); } }
+        public static Image FieldFilter { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.FieldFilter"); } }
+        public static Image EventFilter { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.EventFilter"); } }
         public static Image WordWrapOff { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.TravelGrid.WordWrapOff"); } }
         public static Image WordWrapOn { get { return BaseUtils.Icons.IconSet.GetIcon("Controls.TravelGrid.WordWrapOn"); } }
         #endregion
